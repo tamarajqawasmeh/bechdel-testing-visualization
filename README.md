@@ -1,1 +1,1 @@
-# information-visualization-for-bechdel-test
+# visualization-for-bechdel-testing
